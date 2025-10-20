@@ -1,23 +1,45 @@
+
 # React.js Design Patterns & Best Practices
 
-A collection of **ReactJS Design patterns** and **Best Practices examples** to help you write clean, maintainable, and scalable Reactjs project.  
-This repo is focused on **design patterns and best practices**, not building a full project.
+![Repo Size](https://img.shields.io/github/repo-size/sattarrasouli/reactjs-patterns-practices)
+![Last Commit](https://img.shields.io/github/last-commit/sattarrasouli/reactjs-patterns-practices)
+![License](https://img.shields.io/github/license/sattarrasouli/reactjs-patterns-practices)
+![Issues](https://img.shields.io/github/issues/sattarrasouli/reactjs-patterns-practices)
+
+A collection of **ReactJS Design Patterns** and **Best Practices examples** to help you write clean, maintainable, and scalable React projects.  
+This repo focuses on **patterns and practices**, not on building a full application.
 
 ---
 
 ## Patterns Covered
 
-<!-- - **[Hooks](patterns/Hooks)** – Custom hooks and best practices.
-- **[Context API](patterns/Context)** – Managing state globally with React Context.
-- **[Higher-Order Components (HOC)](patterns/HOC)** – Reusing component logic. -->
-- **[Render Props](design-patterns/render-props)** – Sharing behavior between components.
-<!-- - **[Other Patterns](patterns/Other)** – Miscellaneous React patterns and utilities. -->
+- **[Custom Hooks](#custom-hooks)** – Extract reusable logic into hooks.  
+- **[Context API](#context-api)** – Manage global state without prop drilling.  
+- **[Render Props](#render-props)** – Share behavior between components dynamically.  
+- **[Other Patterns](#other-patterns)** – Additional React patterns and utilities.
+
+---
+
+## Best Practices
+
+- **Clean Code** – Writing readable and maintainable React code.  
+- **SOLID Principles** – Core OOP design guidelines applied in React.  
+- **State Management Tips** – Best practices for local and global state.  
+- **Performance Optimizations** – Memoization, lazy loading, and more.
 
 ---
 
 ## How to Use
 
-1. Clone the repo:
+1. **Clone the repository**:
 
 ```bash
 git clone https://github.com/sattarrasouli/reactjs-patterns-practices.git
+
+cd reactjs-patterns-practices
+
+npm install
+
+npm run dev
+
+```
