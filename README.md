@@ -1,10 +1,12 @@
 
 # React.js Design Patterns & Best Practices
-
-![Repo Size](https://img.shields.io/github/repo-size/sattarrasouli/reactjs-patterns-practices)
-![Last Commit](https://img.shields.io/github/last-commit/sattarrasouli/reactjs-patterns-practices)
-![License](https://img.shields.io/github/license/sattarrasouli/reactjs-patterns-practices)
-![Issues](https://img.shields.io/github/issues/sattarrasouli/reactjs-patterns-practices)
+![Reactjs](https://img.shields.io/badge/React.js-3178C6?style=for-the-badge&logo=react&logoColor=white)
+![vite](https://img.shields.io/badge/vite-3178C6?style=for-the-badge&logo=vite&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Code On](https://img.shields.io/badge/Code%20On-💻-lightgrey?style=for-the-badge)
+![Learning Project](https://img.shields.io/badge/Purpose-Learning-blueviolet?style=for-the-badge)
+![Repo Size](https://img.shields.io/github/repo-size/sattarrasouli/reactjs-patterns-practices?style=for-the-badge)
+![Last Commit](https://img.shields.io/github/last-commit/sattarrasouli/reactjs-patterns-practices?style=for-the-badge)
 
 A collection of **ReactJS Design Patterns** and **Best Practices examples** to help you write clean, maintainable, and scalable React projects.  
 This repo focuses on **patterns and practices**, not on building a full application.
