@@ -325,8 +325,15 @@ export const patterns = [
   { id: "singleton", title: "Singleton Pattern", description: "Ensure a class has only one instance." },
   { id: "observer", title: "Observer Pattern", description: "Allows objects to be notified of state changes." },
 ];
-
 export const practices = [
   { id: "clean-code", title: "Clean Code", description: "Write readable and maintainable code." },
   { id: "solid", title: "SOLID Principles", description: "Core OOP design guidelines." },
+  { id: "dry", title: "DRY (Don't Repeat Yourself)", description: "Avoid duplication by reusing logic and components." },
+  { id: "kiss", title: "KISS Principle", description: "Keep code simple; avoid unnecessary complexity." },
+  { id: "yagni", title: "YAGNI", description: "Don't build functionality until it's actually needed." },
+  { id: "component-composition", title: "Component Composition", description: "Build UIs using small reusable components rather than large monolithic ones." },
+  { id: "folder-structure", title: "Scalable Folder Structure", description: "Use a clear and scalable file architecture for your project." },
+  { id: "performance", title: "Performance Optimization", description: "Write efficient code; avoid heavy re-renders and unnecessary computations." },
+  { id: "accessibility", title: "Accessibility (a11y)", description: "Build inclusive interfaces that everyone can use." },
+  { id: "testing", title: "Testing Best Practices", description: "Write maintainable unit, integration, and E2E tests." },
 ];
